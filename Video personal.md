@@ -1,4 +1,7 @@
+
 ## Datos de la Empresa
+
+![Planta Huaral drawio](https://github.com/C4M705/C4M705/assets/164358065/609a8931-0658-46aa-90a9-92845a07bdf6)
 
 Nombre de la empresa: San Fernando
 
